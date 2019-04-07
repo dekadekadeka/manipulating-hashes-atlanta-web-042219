@@ -26,7 +26,7 @@ contacts.each do |person, data|
   end
 end
   #remember to return your newly altered contacts hash!
-  contacts
+  puts contacts
 end
 
 first_challenge
